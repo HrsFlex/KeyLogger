@@ -1,6 +1,7 @@
+
 h1{
     border:2px solid black;
-    padding: 2px;
+    padding: 7px;
     background-color: #f4f4f4;
     border-radius: 10px;
 }
@@ -33,4 +34,11 @@ button{
     margin-top: 20px;
     outline: black solid 1px;
     margin-right: 5px;
+}
+p{
+    font-size: 20px;
+    margin-top: 20px;
+}
+a{
+    text-decoration: none;
 }
